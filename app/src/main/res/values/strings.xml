@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">itunesmusic</string>
+    <string name="search_music">Search music...</string>
+    <string name="no_search_result">No search result</string>
+    <string name="smaller_10_time_text">0:0%d</string>
+    <string name="normal_time_text">0:%d</string>
 </resources>
